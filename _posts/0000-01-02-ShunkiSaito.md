@@ -2,5 +2,4 @@
 layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
-playground
-frontend
+今日は初めてオフィスに来ました。
